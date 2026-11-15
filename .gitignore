@@ -1,0 +1,13 @@
+# disk images and extracted footage - never commit these
+*.img
+*.dd
+*.bin
+*.ps
+*.mp4
+*.mkv
+*.mpg
+cctv_out/
+
+__pycache__/
+*.pyc
+.venv/
